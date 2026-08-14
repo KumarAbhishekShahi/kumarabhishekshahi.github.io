@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kumar Abhishek Shahi - Resume</title>
+    <style>
+        :root {
+            --primary-color: #0b3d91;
+            --secondary-color: #1f5ca3;
+            --text-color: #333333;
+            --light-bg: #f8f9fa;
+            --border-color: #e0e0e0;
+        }
+        
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            color: var(--text-color);
+            background-color: #eef2f5;
+            line-height: 1.6;
+            padding: 40px 20px;
+        }
+        
+        .resume-container {
+            max-width: 950px;
+            margin: 0 auto;
+            background: #ffffff;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.05);
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        
+        header {
+            background-color: var(--primary-color);
+            color: #ffffff;
+            padding: 40px;
+            text-align: center;
+        }
+        
+        header h1 {
+            font-size: 2.8em;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+        
+        header h2 {
+            font-size: 1.3em;
+            font-weight: 400;
+            opacity: 0.9;
+            margin-bottom: 25px;
+        }
+        
+        .contact-links {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 15px;
+            font-size: 0.95em;
+        }
+        
+        .contact-links a {
+            color: #ffffff;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            background: rgba(255,255,255,0.15);
+            padding: 5px 12px;
+            border-radius: 20px;
+            transition: background 0.3s ease;
+        }
+        
+        .contact-links a:hover {
+            background: rgba(255,255,255,0.3);
+        }
+        
+        .content {
+            padding: 40px;
+        }
+        
+        .section-title {
+            color: var(--primary-color);
+            font-size: 1.5em;
+            border-bottom: 2px solid var(--primary-color);
+            padding-bottom: 8px;
+            margin-top: 0;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .summary {
+            font-size: 1.05em;
+            margin-bottom: 40px;
+            text-align: justify;
+        }
+        
+        .experience-item {
+            margin-bottom: 30px;
+        }
+        
+        .experience-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 10px;
+            flex-wrap: wrap;
+        }
+        
+        .job-title {
+            font-size: 1.25em;
+            font-weight: 700;
+            color: var(--secondary-color);
+        }
+        
+        .company-name {
+            font-weight: 600;
+            font-size: 1.1em;
+        }
+        
+        .job-meta {
+            color: #666;
+            font-style: italic;
+            font-size: 0.95em;
+        }
+        
+        ul {
+            padding-left: 20px;
+            margin-bottom: 15px;
+        }
+        
+        li {
+            margin-bottom: 8px;
+        }
+        
+        .two-column {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+        
+        .skills-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        
+        .skill-tag {
+            background-color: var(--light-bg);
+            border: 1px solid var(--border-color);
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            font-weight: 500;
+        }
+        
+        .article-link {
+            display: block;
+            margin-bottom: 12px;
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+            padding: 10px;
+            background: var(--light-bg);
+            border-left: 4px solid var(--primary-color);
+            transition: all 0.2s ease;
+        }
+        
+        .article-link:hover {
+            transform: translateX(5px);
+            background: #e9ecef;
+        }
+        
+        .education-item {
+            margin-bottom: 15px;
+        }
+        
+        @media (max-width: 768px) {
+            .two-column {
+                grid-template-columns: 1fr;
+            }
+            .experience-header {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="resume-container">
+    <header>
+        <h1>Kumar Abhishek Shahi</h1>
+        <h2>Head of Engineering — DevEx & SDLC · AI/ML Platforms</h2>
+        <div class="contact-links">
+            <a href="mailto:abhishek.shahi@gmail.com">✉️ abhishek.shahi@gmail.com</a>
+            <a href="tel:+919811706611">📱 +91 9811706611</a>
+            <a href="https://www.linkedin.com/in/abhishekshahi" target="_blank">💼 LinkedIn</a>
+            <a href="https://x.com/abhishekshahi" target="_blank">🐦 X (Twitter)</a>
+            <a href="https://youtube.com/@abhishekshahi_ai" target="_blank">📺 YouTube</a>
+        </div>
+    </header>
+
+    <div class="content">
+        <section class="summary">
+            Technology strategist, AI transformation leader, and trusted CXO advisor with 24 years of experience evangelizing AI-assisted SDLC tooling, cloud-native architectures, and DevEx transformation programs across global engineering teams. Proven track record leading IT operations, platform modernizations, and global multimillion-dollar technology portfolios within regulated financial, ERP, and capital markets environments.
+        </section>
+
+        <section>
+            <h3 class="section-title">Experience</h3>
+            
+            <div class="experience-item">
+                <div class="experience-header">
+                    <div>
+                        <span class="job-title">Domain Architect / Head of Engineering — DevEx & SDLC</span><br>
+                        <span class="company-name">Deutsche Bank</span>
+                    </div>
+                    <div class="job-meta">Pune, India | April 2020 – Present</div>
+                </div>
+                <ul>
+                    <li>Lead a global 80+ person engineering delivery organization across 5 platform domains, executing a $5M annual budget across RTB, CTB, and ADC streams.</li>
+                    <li>Architect and deploy production-grade enterprise RAG pipelines and multi-agent systems using LangGraph, ChromaDB, and Google Gemini APIs.</li>
+                    <li>Lead Java platform modernization, replacing legacy monoliths with Spring Boot microservices, achieving an 82% reduction in execution times via event-driven architectures.</li>
+                    <li>Embed DORA metrics into the SDLC platform to improve Deployment Frequency, MTTR, and Change Failure Rate.</li>
+                    <li>Drive DevSecOps and security engineering practices including secure coding, threat modeling, and SCA.</li>
+                </ul>
+            </div>
+
+            <div class="experience-item">
+                <div class="experience-header">
+                    <div>
+                        <span class="job-title">Software Development Manager</span><br>
+                        <span class="company-name">Symantec</span>
+                    </div>
+                    <div class="job-meta">Pune, India | February 2016 – April 2020</div>
+                </div>
+                <ul>
+                    <li>Led globally distributed teams, managed SaaS infrastructure with zero downtime, and improved site delivery by 30% through automation.</li>
+                    <li>Founded and led AI CoE initiatives; designed AI agents for SDLC processes such as automated PR reviews.</li>
+                    <li>Interfaced with auditors to defend SDLC control compliance and clear critical audit findings.</li>
+                </ul>
+            </div>
+
+            <div class="experience-item">
+                <div class="experience-header">
+                    <div>
+                        <span class="job-title">Architect</span><br>
+                        <span class="company-name">Oracle Corporation</span>
+                    </div>
+                    <div class="job-meta">NCR, India | December 2010 – February 2016</div>
+                </div>
+                <ul>
+                    <li>Led multi-million dollar engagements as Oracle Solution Architect for clients including Reliance Jio, American Express, and Emerson.</li>
+                </ul>
+            </div>
+        </section>
+
+        <div class="two-column">
+            <section>
+                <h3 class="section-title">Articles & Publications</h3>
+                <p style="margin-bottom: 15px; font-size: 0.95em; color: #555;">Check out my latest writings on tech, AI, and architecture:</p>
+                
+                <a href="#" class="article-link">📝 CI/CD using Google Cloud Build and Google Cloud Run — Part 1 & 2 (Medium)</a>
+                <a href="#" class="article-link">📝 Rule based content replication from Prod to NonProd in AEM (LinkedIn Article)</a>
+                <a href="#" class="article-link">📝 Working with PL/SQL Web Services in JDeveloper 12c (Blog)</a>
+                <a href="#" class="article-link">📝 Building and Testing Databound Web Applications (Blog)</a>
+            </section>
+
+            <section>
+                <h3 class="section-title">Initiatives & Projects</h3>
+                <ul>
+                    <li><strong>Fractional AI-CTO Consulting:</strong> Technical audit frameworks for enterprise AI transformations.</li>
+                    <li><strong>dbDocFlow:</strong> Structured product documentation framework featuring step-by-step setup guides and directory definitions.</li>
+                    <li><strong>sdlc-controls-agent:</strong> RAG system automating SDLC compliance control closure in banking.</li>
+                    <li><strong>12-Week Java to AI Curriculum:</strong> Curriculum designed to upskill enterprise developers.</li>
+                </ul>
+            </section>
+        </div>
+
+        <div class="two-column">
+            <section>
+                <h3 class="section-title">Education</h3>
+                <div class="education-item">
+                    <strong>Master of Business Administration (MBA)</strong><br>
+                    Indian Institute of Management Raipur
+                </div>
+                <div class="education-item">
+                    <strong>Master of Technology (MTech) Data Analytics</strong><br>
+                    Birla Institute of Technology and Science Pilani
+                </div>
+                <div class="education-item">
+                    <strong>Information Technology Degree</strong><br>
+                    Bharati Vidyapeeth Deemed University
+                </div>
+            </section>
+
+            <section>
+                <h3 class="section-title">Core Skills</h3>
+                <div class="skills-grid">
+                    <span class="skill-tag">GenAI & RAG</span>
+                    <span class="skill-tag">LangGraph</span>
+                    <span class="skill-tag">Gemini API</span>
+                    <span class="skill-tag">Domain Driven Design</span>
+                    <span class="skill-tag">Microservices</span>
+                    <span class="skill-tag">Spring Boot</span>
+                    <span class="skill-tag">GCP & OpenShift</span>
+                    <span class="skill-tag">DORA Metrics</span>
+                    <span class="skill-tag">SDLC Governance</span>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
