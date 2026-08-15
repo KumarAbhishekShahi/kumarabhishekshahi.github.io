@@ -1,288 +1,183 @@
-# Kumar Abhishek Shahi
-
-> Technology Strategist | AI Transformation Leader | Domain Architect | CXO Advisor
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekshahi)
-
-## About Me
-
-Technology strategist, AI transformation leader, and trusted CXO advisor with **24 years of experience** across AI-assisted SDLC tooling, cloud-native architecture, DevEx transformation, IT operations, platform modernization, and global engineering leadership.
-
-I work at the intersection of **enterprise architecture, engineering excellence, artificial intelligence, developer experience, DevSecOps, SRE, and business transformation**. My experience spans regulated financial services, ERP, capital markets, internet security, wealth management, and enterprise technology environments.
-
-I have led global engineering organizations, multimillion-dollar technology portfolios, platform modernization programs, AI Centers of Excellence, and strategic engagements for organizations including Deutsche Bank, Symantec, Oracle, GE, and American Express.
-
-## Current Role
-
-### Domain Architect / Head of Engineering — DevEx & SDLC
-**Deutsche Bank | Pune, India | April 2020 – Present**
-
-- Lead an 80+ person global engineering delivery organization across five platform domains, nine global squads, and three VP direct reports.
-- Manage a $5M annual investment portfolio spanning RTB, CTB, and ADC streams, with 30+ vendor engagements and 50+ permanent staff.
-- Architect and govern production-grade enterprise RAG pipelines and multi-agent systems using LangGraph, ChromaDB, Qdrant, and Google Gemini APIs.
-- Establish prompt-engineering standards, model governance, and AI risk practices aligned with the NIST AI Risk Management Framework.
-- Govern Spec-Driven Development practices, including BMAD and OpenSpec.
-- Modernize Java platforms by replacing legacy monoliths and batch/Oracle processes with scalable Spring Boot microservices and event-driven architectures.
-- Reduced execution time from 8.5 hours to 1.5 hours—an 82% improvement.
-- Embed DORA metrics into SDLC platforms to improve deployment frequency, lead time for changes, MTTR, and change failure rate.
-- Drive DevSecOps practices including secure coding, threat modeling, software composition analysis, and container security.
-- Build reusable GitHub Actions and pipelines for automated development and release governance.
-- Act as a CXO advisor and liaison across 20+ business lines and central engineering.
-- Lead architecture forums, AI CoE activities, vendor selection, RFP/SOW processes, and Build-versus-Buy decisions.
-- Mentor through Women in Tech initiatives, contribute as a regular code committer, and support DEI and engineering-excellence programs.
-
-## Areas of Expertise
-
-### Technology Strategy and Leadership
-- Technology strategy and transformation roadmaps
-- CXO advisory and executive stakeholder management
-- Global engineering organization leadership
-- Portfolio, investment, cost-centre, and vendor management
-- Build-versus-Buy analysis and commercial model evaluation
-- Operating-model design and engineering governance
-
-### AI, GenAI, and Intelligent Engineering
-- Enterprise RAG and agentic AI systems
-- Multi-agent orchestration with LangGraph
-- LLM application architecture and model integration
-- Prompt engineering and evaluation
-- AI-assisted SDLC tooling
-- Automated pull-request review and test generation
-- RAG evaluation with RAGAS and LangSmith
-- AI governance and NIST AI Risk Management Framework
-- Spec-Driven Development with BMAD and OpenSpec
-- Vector databases: ChromaDB and Qdrant
-- Google Gemini, Claude, ChatGPT Enterprise, and Ollama
-
-### Architecture and Cloud-Native Engineering
-- Domain-Driven Design and C4 modeling
-- Hexagonal and microservices architecture
-- Event-driven architecture and Solace
-- Data Mesh and Internal Developer Platforms
-- Java, Spring Boot, JEE, Python, React, and Angular
-- GCP, Azure, OpenShift, Kubernetes, and Docker
-- Oracle Database, WebLogic, ADF, WebCenter, BPM, and AEM
-
-### DevEx, DevSecOps, SRE, and Observability
-- Developer experience transformation
-- DORA metrics and engineering excellence
-- CI/CD and GitHub Actions
-- SLSA and software supply-chain security
-- Secure coding and threat modeling
-- SCA and container security
-- ITIL, SRE, SLOs, SLIs, and error budgets
-- Incident response, runbooks, and ROTA handling
-- Prometheus, Grafana, Splunk, ScienceLogic, and AlertSite
-- FinOps and operational efficiency
-
-## Professional Experience
-
-### Software Development Manager
-**Symantec | Pune, India | February 2016 – April 2020**
-
-- Led globally distributed engineering teams and partner relationships.
-- Managed contracts, licenses, IT infrastructure, and SaaS operations with zero downtime.
-- Improved site delivery by 30% through automation, CDN, and monitoring.
-- Led cloud and platform transformation initiatives, AS-IS to TO-BE migrations, portfolio management, and technical POCs.
-- Founded and led AI CoE initiatives, evaluating LLM tools and designing AI agents for SDLC use cases.
-- Interfaced with auditors to defend SDLC control compliance and resolve critical banking audit findings.
-
-### Architect
-**Oracle Corporation | NCR, India | December 2010 – February 2016**
-
-- Led multimillion-dollar Oracle Solution Architect engagements.
-- Served clients including Reliance Jio, American Express FRX Platform, and Emerson Trellis Platform.
-- Drove TCO reduction, ROI improvement, governance, and complex technical issue resolution.
-
-### Solution Architect and Technical Leadership Roles
-**Birlasoft, GlobalLogic, Wipro Infotech, NIIT Technologies, and Prometric Software | 2002 onward**
-
-Contributed to product implementations, architecture, presales, proposals, estimation, technical leadership, and delivery across internet security, wealth management, and enterprise technology domains.
-
-## Education
-
-- **Master of Business Administration (MBA)** — Indian Institute of Management Raipur
-- **Master of Technology (M.Tech), Data Analytics** — Birla Institute of Technology and Science, Pilani
-
-## Certifications and Professional Learning
-
-- Global Enterprise Engineer
-- Cloud Engineering with Google Cloud Professional Certificate
-- Google GenAI Leader
-- Certified ScrumMaster (CSM)
-- SAFe Certified Practitioner
-- Machine Learning for Business Professionals
-- IT Project Management
-
-> Add certification URLs, issuing dates, credential IDs, and verification links here.
-
-## Publications and Writing
-
-### Published Articles and Technical Papers
-
-- [CI/CD using Google Cloud Build and Google Cloud Run — Part 1](#)
-- [CI/CD using Google Cloud Build and Google Cloud Run — Part 2](#)
-- [Rule-Based Content Replication from Production to Non-Production in AEM](#)
-- [Working with PL/SQL Web Services in JDeveloper 12c](#)
-- [Building and Testing Databound Web Applications using JCS, DCS, and JDeveloper 12c](#)
-
-### LinkedIn Articles
-
-Use this section for thought leadership on:
-
-- AI transformation and enterprise GenAI adoption
-- AI-assisted software development
-- RAG and multi-agent architecture
-- DevEx and platform engineering
-- DORA metrics and engineering excellence
-- DevSecOps, SRE, and observability
-- Modernizing Java and legacy enterprise platforms
-- AI governance and responsible innovation
-
-- [LinkedIn articles](#)
-
-### Books and eBooks
-
-- [Book title or working title](#) — Add subtitle, publication status, publisher, ISBN, and purchase link.
-- [Book title or working title](#) — Add a short description and intended audience.
-
-### Blogs and Newsletters
-
-- [Personal blog](#)
-- [Technical newsletter](#)
-- [Medium](#)
-- [Substack](#)
-- [Company or community blog contributions](#)
-
-## Speaking and Knowledge Sharing
-
-### Conferences
-
-| Event | Topic | Location / Date | Link |
-|---|---|---|---|
-| Add conference | Add topic | Add details | [View](#) |
-
-### Seminars and Industry Events
-
-- **Event:** Add event name  
-  **Topic:** Add subject  
-  **Audience:** Add audience  
-  **Date:** Add date  
-  **Link:** [Event details](#)
-
-### Guest Lectures
-
-- **Institution:** Add university or organization
-- **Topic:** AI engineering, software architecture, DevSecOps, SRE, or technology leadership
-- **Audience:** Students, engineering leaders, or professionals
-- **Date and recording:** Add details and link
-
-### Recommended Talk Topics
-
-- Designing enterprise RAG and agentic AI systems
-- AI-assisted SDLC: opportunities, controls, and adoption patterns
-- From monoliths to scalable event-driven platforms
-- Building effective Internal Developer Platforms
-- DORA metrics beyond dashboards
-- SRE practices for regulated financial systems
-- Responsible AI governance for engineering organizations
-- Leading global engineering transformation
-
-## Community, CSR, and Associations
-
-### CSR and Volunteering
-
-- Women in Tech mentorship
-- DEI and inclusive engineering initiatives
-- Student and early-career technology mentoring
-- Digital literacy or community technology programs
-- Pro-bono architecture and AI advisory
-- Add organization, role, dates, outcomes, and links here.
-
-### Professional Associations
-
-- [Association or community](#) — Membership / role / dates
-- [Technology community](#) — Contributor / speaker / mentor
-- [Open-source project](#) — Maintainer / contributor
-- [Industry forum](#) — Participant / advisor
-
-## Honors and Awards
-
-- Multiple Spot Awards
-- Employee of the Month
-- Team of the Month
-- Program Management recognition
-- Site Leadership recognition
-- Generative AI recognition
-- Engineering Excellence recognition
-
-> Add award year, awarding organization, citation, and supporting link for each award.
-
-## Digital Presence
-
-- **LinkedIn profile:** [linkedin.com/in/abhishekshahi](https://www.linkedin.com/in/abhishekshahi)
-- **LinkedIn articles:** [Add link](#)
-- **Personal website:** [Add link](#)
-- **GitHub:** [Add link](#)
-- **Technical blog:** [Add link](#)
-- **YouTube channel:** [Add link](#)
-- **Instagram:** [Add link](#)
-- **X / Twitter:** [Add link](#)
-- **Google Scholar:** [Add link](#)
-- **ORCID:** [Add link](#)
-- **Speaker Deck:** [Add link](#)
-
-## Selected Impact
-
-- Led an 80+ person global engineering organization across five platform domains.
-- Managed a $5M annual technology investment portfolio.
-- Reduced a critical processing workload from 8.5 hours to 1.5 hours.
-- Improved site delivery by 30% through automation, CDN, and monitoring.
-- Delivered enterprise RAG and multi-agent systems in regulated environments.
-- Established AI governance, prompt standards, and SDLC controls.
-- Advised 20+ business lines on enterprise architecture and engineering solutions.
-
-## Collaboration and Advisory
-
-I welcome conversations about:
-
-- Enterprise AI and GenAI transformation
-- RAG, multi-agent systems, and AI architecture
-- AI governance and responsible adoption
-- Developer experience and platform engineering
-- Java and Spring Boot modernization
-- Cloud-native and event-driven architecture
-- DevSecOps, SRE, observability, and DORA metrics
-- Engineering leadership and operating models
-- Technology portfolio and vendor strategy
-- Guest lectures, conferences, seminars, and mentoring
-
-## Contact Me
-
-- **Email:** [abhishek.shahi@gmail.com](mailto:abhishek.shahi@gmail.com)
-- **Phone:** +91 9811706611
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/abhishekshahi)
-- **Location:** Pune, Maharashtra, India
-
-For professional enquiries, please include the topic, audience, expected format, proposed date, and any relevant background.
-
-## Short Bio
-
-Kumar Abhishek Shahi is a technology strategist, AI transformation leader, and domain architect with 24 years of experience in enterprise architecture, GenAI, DevEx, DevSecOps, SRE, cloud-native platforms, and global engineering leadership. He currently leads DevEx and SDLC engineering initiatives at Deutsche Bank, where he architects AI-assisted engineering platforms, governs technology investments, modernizes legacy systems, and advises business and technology leaders across regulated financial environments.
-
-## One-Line Bio
-
-Technology strategist and AI transformation leader helping enterprises modernize engineering, adopt responsible GenAI, and build scalable cloud-native platforms.
-
-## Profile Maintenance Checklist
-
-- [ ] Add verified links for every article and publication.
-- [ ] Add book titles, ISBNs, publishers, and purchase links.
-- [ ] Add conference, seminar, and guest-lecture details.
-- [ ] Add GitHub projects, open-source contributions, and demos.
-- [ ] Add certification dates, credential IDs, and verification URLs.
-- [ ] Add award years and awarding organizations.
-- [ ] Add CSR outcomes, association memberships, and leadership roles.
-- [ ] Add professional photographs and a downloadable résumé link.
-- [ ] Review contact details and social links before publishing.
-- [ ] Remove confidential employer, client, architecture, and financial information from the public version.
+<!--
+  Kumar Abhishek Shahi — Modern multi-column profile/resume
+  Designed for rendering with a Markdown engine that supports inline HTML and CSS.
+  For LinkedIn/GitHub README, use the content sections but expect limited CSS support.
+<style>
+:root {
+  --navy: #102a43;
+  --blue: #1976d2;
+  --teal: #00897b;
+  --gold: #f4a261;
+  --ink: #243b53;
+  --muted: #627d98;
+  --pale-blue: #eaf3ff;
+  --pale-teal: #e8f7f3;
+  --pale-gold: #fff4e5;
+  --line: #d9e2ec;
+}
+.profile { max-width: 1180px; margin: auto; font-family: Inter, Segoe UI, Arial, sans-serif; color: var(--ink); line-height: 1.55; }
+.hero { background: linear-gradient(135deg, var(--navy), #1d4e89 62%, var(--teal)); color: white; padding: 34px 40px; border-radius: 18px; margin-bottom: 18px; }
+.hero h1 { margin: 0 0 5px; font-size: 38px; letter-spacing: -1px; }
+.hero h2 { margin: 0 0 16px; font-size: 17px; font-weight: 500; color: #d9f2ff; }
+.contact { display: flex; flex-wrap: wrap; gap: 9px; }
+.contact a, .contact span { color: white; text-decoration: none; border: 1px solid rgba(255,255,255,.38); border-radius: 20px; padding: 5px 11px; font-size: 13px; }
+.grid { display: grid; grid-template-columns: 30% 70%; gap: 18px; align-items: start; }
+.card { border: 1px solid var(--line); border-radius: 14px; padding: 20px; margin-bottom: 18px; background: white; box-shadow: 0 3px 12px rgba(16,42,67,.06); }
+.card.blue { background: var(--pale-blue); border-color: #bdd7f5; }
+.card.teal { background: var(--pale-teal); border-color: #b7e4db; }
+.card.gold { background: var(--pale-gold); border-color: #f8d5a6; }
+.card h2 { color: var(--navy); font-size: 20px; margin: 0 0 12px; border-bottom: 3px solid var(--blue); padding-bottom: 5px; }
+.card h3 { color: var(--teal); font-size: 16px; margin: 17px 0 3px; }
+.card h3:first-of-type { margin-top: 0; }
+.card p { margin: 7px 0; }
+.card ul { margin: 7px 0 0 19px; padding: 0; }
+.card li { margin: 4px 0; }
+.tag { display: inline-block; background: white; border: 1px solid #b8cce0; color: var(--navy); border-radius: 14px; padding: 4px 9px; margin: 3px 2px; font-size: 12px; }
+.metric { display: inline-block; width: 46%; vertical-align: top; margin: 1%; text-align: center; background: white; border-radius: 12px; padding: 12px 2px; }
+.metric strong { display: block; color: var(--blue); font-size: 25px; }
+.metric span { color: var(--muted); font-size: 12px; }
+.timeline { border-left: 3px solid #9ac3ed; padding-left: 17px; }
+.timeline h3 { position: relative; }
+.timeline h3:before { content: ''; width: 10px; height: 10px; background: var(--blue); border: 3px solid white; outline: 2px solid var(--blue); border-radius: 50%; position: absolute; left: -25px; top: 6px; }
+.linkbox { display: block; background: white; border-radius: 9px; padding: 8px 10px; margin: 7px 0; text-decoration: none; color: var(--blue); border-left: 4px solid var(--gold); }
+.small { font-size: 13px; color: var(--muted); }
+.footer { text-align: center; color: var(--muted); font-size: 12px; margin: 20px 0; }
+@media (max-width: 780px) { .grid { grid-template-columns: 1fr; } .hero { padding: 25px; } .hero h1 { font-size: 30px; } }
+@media print { .profile { max-width: none; } .hero { print-color-adjust: exact; -webkit-print-color-adjust: exact; } .card { break-inside: avoid; box-shadow: none; } }
+<div class="profile">
+<div class="hero">
+<h1>Kumar Abhishek Shahi</h1>
+<h2>Technology Strategist · AI Transformation Leader · Domain Architect · CXO Advisor</h2>
+<div class="contact">
+<span>📍 Pune, Maharashtra, India</span>
+<a href="mailto:abhishek.shahi@gmail.com">✉ abhishek.shahi@gmail.com</a>
+<span>☎ +91 9811706611</span>
+<a href="https://www.linkedin.com/in/abhishekshahi">in LinkedIn Profile</a>
+</div>
+</div>
+<div class="grid">
+<div>
+<div class="card blue">
+<h2>Profile Snapshot</h2>
+<div class="metric"><strong>24+</strong><span>Years of experience</span></div>
+<div class="metric"><strong>80+</strong><span>Global engineering team</span></div>
+<div class="metric"><strong>$5M</strong><span>Annual portfolio</span></div>
+<div class="metric"><strong>82%</strong><span>Processing-time reduction</span></div>
+</div>
+<div class="card teal">
+<h2>Core Expertise</h2>
+<span class="tag">AI Transformation</span><span class="tag">GenAI</span><span class="tag">RAG</span><span class="tag">Multi-Agent Systems</span><span class="tag">AI Governance</span><span class="tag">Java</span><span class="tag">Spring Boot</span><span class="tag">Microservices</span><span class="tag">Event-Driven Architecture</span><span class="tag">Cloud Native</span><span class="tag">DevEx</span><span class="tag">DevSecOps</span><span class="tag">SRE</span><span class="tag">DORA Metrics</span><span class="tag">Observability</span><span class="tag">Platform Engineering</span><span class="tag">CXO Advisory</span><span class="tag">Vendor Management</span>
+</div>
+<div class="card">
+<h2>Technology Stack</h2>
+<p><strong>AI:</strong> Gemini, Claude, ChatGPT Enterprise, Ollama, LangGraph, RAGAS, LangSmith, ChromaDB, Qdrant, Python.</p>
+<p><strong>Architecture:</strong> DDD, C4, Hexagonal Architecture, Microservices, SOA, Event-Driven Architecture, Data Mesh, IDP.</p>
+<p><strong>Cloud:</strong> GCP, Azure, OpenShift, Kubernetes, Docker.</p>
+<p><strong>Engineering:</strong> Java, Spring Boot, JEE, React, Angular, Oracle, WebLogic, GitHub Actions.</p>
+<p><strong>Reliability:</strong> Prometheus, Grafana, Splunk, ScienceLogic, AlertSite, SLOs, SLIs, Error Budgets, FinOps.</p>
+</div>
+<div class="card gold">
+<h2>Education</h2>
+<p><strong>MBA</strong><br>Indian Institute of Management Raipur</p>
+<p><strong>M.Tech, Data Analytics</strong><br>Birla Institute of Technology and Science, Pilani</p>
+</div>
+<div class="card">
+<h2>Certifications</h2>
+<ul>
+<li>Google GenAI Leader</li><li>Cloud Engineering with Google Cloud</li><li>Global Enterprise Engineer</li><li>Certified ScrumMaster</li><li>SAFe Certified Practitioner</li><li>Machine Learning for Business Professionals</li><li>IT Project Management</li>
+</ul>
+<p class="small">Add credential IDs, dates, issuing bodies, and verification links.</p>
+</div>
+<div class="card teal">
+<h2>Contact Me For</h2>
+<ul>
+<li>Enterprise AI and GenAI transformation</li><li>RAG and multi-agent architecture</li><li>AI governance and responsible adoption</li><li>Java and Spring Boot modernization</li><li>DevEx, platform engineering, and DORA</li><li>DevSecOps, SRE, observability, and FinOps</li><li>Engineering leadership and CXO advisory</li><li>Conferences, seminars, guest lectures, and mentoring</li>
+</ul>
+</div>
+</div>
+<div>
+<div class="card">
+<h2>Professional Experience</h2>
+<div class="timeline">
+<h3>Domain Architect / Head of Engineering — DevEx & SDLC</h3>
+<p><strong>Deutsche Bank</strong> · Pune · April 2020 – Present</p>
+<ul>
+<li>Lead an 80+ person global organization across five platform domains, nine squads, and three VP direct reports.</li>
+<li>Manage a $5M annual RTB, CTB, and ADC investment portfolio across 30+ vendor engagements.</li>
+<li>Architect production-grade enterprise RAG pipelines and multi-agent systems using LangGraph, ChromaDB, Qdrant, and Gemini APIs.</li>
+<li>Establish prompt-engineering standards and AI governance aligned with the NIST AI Risk Management Framework.</li>
+<li>Modernize Java monoliths and batch/Oracle processes with Spring Boot microservices and event-driven architecture.</li>
+<li>Reduced processing time from 8.5 hours to 1.5 hours—an 82% reduction.</li>
+<li>Embed DORA metrics, SDLC controls, GitHub Actions, DevSecOps, threat modeling, SCA, and container security.</li>
+<li>Advise 20+ business lines across IBOR, AML/Sanctions, and Oracle ERP platforms.</li>
+</ul>
+<h3>Software Development Manager</h3>
+<p><strong>Symantec</strong> · Pune · February 2016 – April 2020</p>
+<ul>
+<li>Led globally distributed teams, partners, contracts, licenses, and SaaS infrastructure with zero downtime.</li>
+<li>Improved site delivery by 30% through automation, CDN, and monitoring.</li>
+<li>Led cloud transformation, AS-IS to TO-BE migrations, portfolio management, and technical POCs.</li>
+<li>Founded an AI CoE and evaluated LLM tools using RAGAS and LangSmith.</li>
+</ul>
+<h3>Architect</h3>
+<p><strong>Oracle Corporation</strong> · NCR, India · December 2010 – February 2016</p>
+<ul><li>Led multimillion-dollar solution-architecture engagements for Reliance Jio, American Express FRX, and Emerson Trellis.</li><li>Drove TCO reduction, ROI improvement, governance, and complex technical issue resolution.</li></ul>
+<h3>Earlier Architecture and Delivery Roles</h3>
+<p><strong>Birlasoft · GlobalLogic · Wipro · NIIT Technologies · Prometric Software</strong> · 2002 onward</p>
+<p>Delivered product implementations, architecture, presales, estimation, and technical leadership across internet security, wealth management, and enterprise technology.</p>
+</div>
+</div>
+<div class="card blue">
+<h2>Writing and Publications</h2>
+<a class="linkbox" href="#">CI/CD using Google Cloud Build and Google Cloud Run — Part 1</a>
+<a class="linkbox" href="#">CI/CD using Google Cloud Build and Google Cloud Run — Part 2</a>
+<a class="linkbox" href="#">Rule-Based Content Replication from Production to Non-Production in AEM</a>
+<a class="linkbox" href="#">Working with PL/SQL Web Services in JDeveloper 12c</a>
+<a class="linkbox" href="#">Building and Testing Databound Web Applications using JCS, DCS, and JDeveloper 12c</a>
+<h3>LinkedIn Articles</h3>
+<p class="small">Add direct links to articles on AI transformation, RAG, agentic AI, DevEx, DORA, Java modernization, SRE, and responsible AI.</p>
+<a class="linkbox" href="#">View LinkedIn articles →</a>
+<h3>Books and eBooks</h3>
+<a class="linkbox" href="#">Add book title, synopsis, publisher, ISBN, and purchase link</a>
+<h3>Blogs and Newsletters</h3>
+<a class="linkbox" href="#">Personal blog / technical newsletter</a>
+</div>
+<div class="card teal">
+<h2>Speaking and Knowledge Sharing</h2>
+<h3>Conferences</h3>
+<table><tr><th>Event</th><th>Topic</th><th>Date / Link</th></tr><tr><td>Add event</td><td>AI, architecture, DevEx, or SRE</td><td><a href="#">Details</a></td></tr></table>
+<h3>Seminars and Guest Lectures</h3>
+<p>Add university, company, community, topic, audience, date, recording, and event link.</p>
+<h3>Suggested Topics</h3>
+<ul><li>Enterprise RAG and agentic AI systems</li><li>AI-assisted SDLC and governance</li><li>Modernizing Java platforms</li><li>Building Internal Developer Platforms</li><li>DORA metrics and engineering excellence</li><li>SRE for regulated financial systems</li></ul>
+</div>
+<div class="card gold">
+<h2>Community, CSR, and Associations</h2>
+<ul>
+<li>Women in Tech mentorship</li><li>DEI and inclusive engineering initiatives</li><li>Student and early-career mentoring</li><li>Digital literacy and community technology programs</li><li>Professional technology associations</li><li>Open-source projects and developer communities</li>
+</ul>
+<p class="small">Add organization, role, dates, outcomes, membership IDs, and links.</p>
+</div>
+<div class="card">
+<h2>Awards and Recognition</h2>
+<span class="tag">Multiple Spot Awards</span><span class="tag">Employee of the Month</span><span class="tag">Team of the Month</span><span class="tag">Program Management</span><span class="tag">Site Leadership</span><span class="tag">Generative AI</span><span class="tag">Engineering Excellence</span>
+<p class="small">Add award year, organization, citation, and evidence link.</p>
+</div>
+<div class="card blue">
+<h2>Digital Presence</h2>
+<a class="linkbox" href="https://www.linkedin.com/in/abhishekshahi">LinkedIn profile</a>
+<a class="linkbox" href="#">LinkedIn articles</a>
+<a class="linkbox" href="#">GitHub and open-source projects</a>
+<a class="linkbox" href="#">YouTube channel</a>
+<a class="linkbox" href="#">Instagram</a>
+<a class="linkbox" href="#">Personal website / portfolio</a>
+<a class="linkbox" href="#">Google Scholar / ORCID / Speaker Deck</a>
+</div>
+</div>
+</div>
+<div class="card">
+<h2>Short Bio</h2>
+<p>Kumar Abhishek Shahi is a technology strategist, AI transformation leader, and domain architect with 24 years of experience in enterprise architecture, GenAI, DevEx, DevSecOps, SRE, cloud-native platforms, and global engineering leadership. He currently leads DevEx and SDLC engineering initiatives at Deutsche Bank, where he architects AI-assisted engineering platforms, governs technology investments, modernizes legacy systems, and advises business and technology leaders across regulated financial environments.</p>
+</div>
+<div class="footer">Please remove confidential employer, client, architecture, and financial information before publishing this profile publicly.</div>
+</div>
